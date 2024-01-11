@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-- 🌱 I’m currently learning NodeJs. 
+- 🌱 I’m Full Stack devloper. 
 - 💬 Ask me about anything 👨‍💻
 - 📫 Mail me at [jayeshmungara757@gmail.com](mailto:jayeshmungara757@gmail.com)
 - ⚡ Fun fact about me: Focused Web Developer (Man of Focus, Determination, and Sheer Will) 😉
