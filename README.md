@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning NodeJs. 
 - 💬 Ask me about anything 👨‍💻
-- 📫 Mail me at [ronakkoladiya0010@gmail.com](mailto:ronakkoladiya0010@gmail.com)
+- 📫 Mail me at [jayeshmungara757@gmail.com](mailto:jayeshmungara757@gmail.com)
 - ⚡ Fun fact about me: Focused Web Developer (Man of Focus, Determination, and Sheer Will) 😉
 
 
@@ -45,40 +45,40 @@ Here are some ideas to get you started:
 <table>
   <tr>
     <td>
-      <a href="https://www.github.com/ronakkoladiya">
-        <img src="https://github-readme-stats.vercel.app/api?username=ronakkoladiya&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="ronakkoladiya" style="width: 100%;"/>
+      <a href="https://www.github.com/Jay757">
+        <img src="https://github-readme-stats.vercel.app/api?username=jay757&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="jay757" style="width: 100%;"/>
       </a>
     </td>
     <td> 
-      <a href="https://www.github.com/ronakkoladiya">
-       <img src ="http://github-readme-streak-stats.herokuapp.com?user=ronakkoladiya&hide_border=true&theme=tokyonight" style="width: 100%;"/>
+      <a href="https://www.github.com/jay757">
+       <img src ="http://github-readme-streak-stats.herokuapp.com?user=jay757&hide_border=true&theme=tokyonight" style="width: 100%;"/>
       </a>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="https://www.github.com/ronakkoladiya">
-       <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=ronakkoladiya&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" style="width: 100%;"/>
+      <a href="https://www.github.com/jay757">
+       <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=jay757&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" style="width: 100%;"/>
       </a>
     </td>
-     <td>
+<!--      <td>
        <a href="https://ronakkoladiya.vercel.app">
        <img src ="https://github-readme-stats.vercel.app/api/pin/?username=ronakkoladiya&repo=portfolio&theme=tokyonight&show_icons=true&hide_border=true" style="width: 100%;"/>
       </a>
-    </td>
+    </td> -->
   </tr>
 </table>
 <p align="center"> 
-  <a href="https://www.instagram.com/ronxkk" target="_blank">
+  <a href="https://www.instagram.com/jay_mungara" target="_blank">
     <img alt="Instagram" src="https://img.shields.io/badge/ronxkk-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
   </a>
     
-  <a href="https://in.linkedin.com/in/ronak-koladiya-a4839524b" target="_blank">
+  <a href="https://www.linkedin.com/in/jay757" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 
-  <a href="https://ronakkoladiya.vercel.app">
+<!--  <a href="https://ronakkoladiya.vercel.app">
     <img src="https://img.shields.io/badge/WEBSITE-ffdb70?&style=for-the-badge&logo=googleearth&logoColor=black">
-  </a>
+  </a> -->
 
 </p>
