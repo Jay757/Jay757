@@ -30,7 +30,7 @@ Every line of code is an opportunity to create, innovate, and push boundaries. M
 ## 🌐 Connect with a Trailblazer
 
 - **LinkedIn:** [jay757](https://www.linkedin.com/in/jay757)
-- **Twitter:** [jay_mungara](https://www.twitter.com/jay_mungara)
+- **Twitter:** [jay_mungara](https://www.twitter.com/MungaraJayesh)
 - **Instagram:** [jay_mungara](https://www.instagram.com/jay_mungara)
 - **Email:** [jayeshmungara757@gmail.com](mailto:jayeshmungara757@gmail.com)
 
