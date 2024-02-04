@@ -1,46 +1,40 @@
-<!--
-**ronakkoladiya0010/ronakkoladiya0010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hello World! I'm Jayesh Mungara
 
-Here are some ideas to get you started:
+![GIF](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Express, NodeJs, Express, MongoDB
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm not just a Full-Stack Developer; I'm a maestro orchestrating the symphony of code. Dive into the world where innovation meets elegant solutions, and each line of code is a brushstroke on the canvas of technology.
 
-<h1 align="center">Hi 👋, I'm Jayesh Mungara</h1>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+## 🚀 Tech Stacks I Command:
 
+### Front-End Arsenal:
+- HTML5, CSS3, Bootstrap, Tailwind CSS, Material-UI
+- JavaScript, TypeScript
+- React.js, Next.js
 
-- 🌱 I’m Full-Stack developer. 
-- 💬 Ask me about anything 👨‍💻
-- 📫 Mail me at [jayeshmungara757@gmail.com](mailto:jayeshmungara757@gmail.com)
-- ⚡ Fun fact about me: Focused Web Developer (Man of Focus, Determination, and Sheer Will) 😉
+### Back-End Sorcery:
+- Node.js, Express.js
+- GraphQL, RESTful APIs
+- MongoDB, MySQL, Prisma, Sequelize
 
+### Cloud Command:
+- AWS, GCP, Heroku, DigitalOcean
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="center"> 
-  <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-  <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-  <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img alt="Material-UI" src="https://img.shields.io/badge/material--ui-%230081CB.svg?&style=for-the-badge&logo=mui&logoColor=white"/>
-  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-  <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img alt="ReactJs" src="https://img.shields.io/badge/react.js-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-  <img alt="Next.js" src="https://img.shields.io/badge/next.js-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white"/>
-  <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-  <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
-</p>
+### DevOps Tools:
+- Git, GitHub
+- CI/CD Pipelines
 
+## 💻 Crafting Excellence, One Line at a Time
 
+Every line of code is an opportunity to create, innovate, and push boundaries. My repositories are not just collections of projects; they're expressions of dedication, precision, and a relentless pursuit of perfection.
 
-<br/> <br/>
+## 🌐 Connect with a Trailblazer
+
+- **LinkedIn:** [jay757](https://www.linkedin.com/in/jay757)
+- **Twitter:** [jay_mungara](https://www.twitter.com/jay_mungara)
+- **Instagram:** [jay_mungara](https://www.instagram.com/jay_mungara)
+- **Email:** [jayeshmungara757@gmail.com](mailto:jayeshmungara757@gmail.com)
+
+## 📈 GitHub Stats and Contributions
 
 <table>
   <tr>
@@ -51,34 +45,21 @@ Here are some ideas to get you started:
     </td>
     <td> 
       <a href="https://www.github.com/jay757">
-       <img src ="http://github-readme-streak-stats.herokuapp.com?user=jay757&hide_border=true&theme=tokyonight" style="width: 100%;"/>
+        <img src="http://github-readme-streak-stats.herokuapp.com?user=jay757&hide_border=true&theme=tokyonight" style="width: 100%;"/>
       </a>
     </td>
   </tr>
   <tr>
     <td>
       <a href="https://www.github.com/jay757">
-       <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=jay757&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" style="width: 100%;"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jay757&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" style="width: 100%;"/>
       </a>
     </td>
-<!--      <td>
-       <a href="https://ronakkoladiya.vercel.app">
-       <img src ="https://github-readme-stats.vercel.app/api/pin/?username=ronakkoladiya&repo=portfolio&theme=tokyonight&show_icons=true&hide_border=true" style="width: 100%;"/>
-      </a>
-    </td> -->
   </tr>
 </table>
-<!-- <p align="center"> 
-  <a href="https://www.instagram.com/jay_mungara" target="_blank">
-    <img alt="Instagram" src="https://img.shields.io/badge/Jay-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
-  </a>
-    
-  <a href="https://www.linkedin.com/in/jay757" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
- -->
-<!--  <a href="https://ronakkoladiya.vercel.app">
-    <img src="https://img.shields.io/badge/WEBSITE-ffdb70?&style=for-the-badge&logo=googleearth&logoColor=black">
-  </a> -->
 
-</p>
+## 🚀 Fun Fact: Focused Web Developer (Man of Focus, Determination, and Sheer Will) 😉
+
+Let's code something extraordinary together! Connect with me, and let the innovation begin!
+
+[![GitHub followers](https://img.shields.io/github/followers/jay757?label=Follow&style=social)](https://github.com/jay757)
